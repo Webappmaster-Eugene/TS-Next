@@ -1,1 +1,1 @@
-# TS-Next
+# Мой pet-проект на NextJS
